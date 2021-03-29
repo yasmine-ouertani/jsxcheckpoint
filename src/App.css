@@ -1,0 +1,7 @@
+.Image{
+    display: flex;
+    margin-left: 200px;
+    margin-right: auto;
+    max-width: min-content;
+
+}
